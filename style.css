@@ -1,14 +1,14 @@
 @font-face {
     font-family: "matter-light";
-    src: url(./matter-light.ttf);
+    src: url(./matter-light\ \(1\).woff2);
 }
 @font-face {
     font-family: "matter-regular";
-    src: url(./matter-regular.ttf);
+    src: url(./matter-regular\ \(1\).woff2);
 }
 @font-face {
     font-family: "roboto-flex";
-    src: url(./roboto-flex-latin.ttf);
+    src: url(./roboto-flex-latin\ \(1\).woff2);
 }
 
 *{
